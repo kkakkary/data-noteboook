@@ -1,0 +1,11 @@
+cat_list:
+- island
+- sex
+- ethnicity
+cont_list:
+- bill_length_mm
+- bill_depth_mm
+- flipper_length_mm
+- body_mass_g
+ds_name: penguins
+target: saintly things
